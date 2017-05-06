@@ -1,0 +1,11 @@
+-> Este é o menu de ajuda:
+ 	 /disk_status - mostra a percentagem de espaço livre em /torrent.
+	 /chat_id - mostra qual o id do chat, seja grupo ou conversa com o bot.
+	 /tem_status - mostra a temperatura de CPU.
+	 /cpu_status - mostra o uso de cpu em percentagem, cada núcleo utilizado em seu máxio equivale a 25% do uso de cpu.
+	 /status_geral - mostra u status geral do orange, disco, cpu, memória e alguns processos rodando.
+
+->Para iniciar o bot execute o comando abaixo:
+	ruby bot_telegram.rb &
+
+
